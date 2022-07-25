@@ -2,6 +2,7 @@
 A restarter for viridian trade bot, if the bot crashes, or vps goes down, once it comes back on your trade bot goes on! (refreshes players.txt)
 
 **Ment mainly for vps**
+**Dont re-upload please.**
 
 **A compiled version is in releases if you dont have python and or your vps doesnt have it installed, so you dont have to go through installing it**
 
