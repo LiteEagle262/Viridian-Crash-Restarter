@@ -14,4 +14,4 @@ once done, I recommend you to create a shortcut for restarter.py or restarter.ex
 
 boom now your all setup!! just run it!!
 
-**webhook not required if you dont want it just leave the default thing in there**
+
