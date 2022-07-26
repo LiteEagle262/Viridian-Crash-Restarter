@@ -1,4 +1,4 @@
-import subprocess,json,os,ctypes,requests
+import subprocess,json,os,ctypes
 from time import sleep
 
 def clear():
