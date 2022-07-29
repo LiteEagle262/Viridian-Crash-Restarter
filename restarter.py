@@ -14,7 +14,7 @@ def process_exists(process_name):
     return last_line.lower().startswith(pn_lower)
 
 def open():
-    os.startfile("Cry.ConsoleApp.exe")
+    os.startfile("Viridian.ConsoleApp.exe")
 
 def check():
     ctypes.windll.kernel32.SetConsoleTitleW("Made by LiteEagle262 | liteeagle.me")
@@ -28,7 +28,7 @@ def check():
                                                                                         
                     https://github.com/LiteEagle262/Viridian-Crash-Restarter                           
     """)
-    while process_exists("Cry.ConsoleApp.exe") == True:
+    while process_exists("Viridian.ConsoleApp.exe") == True:
         sleep(5)
         pass
     else:
